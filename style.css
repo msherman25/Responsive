@@ -95,6 +95,11 @@ nav {
   display:flex;
   justify-content: center;
 }
+section#sidebar_content {
+  display:flex;
+  justify-content: space-around;
+  background-color: #ffffdd;
+}
 
 #main_nav a {
   padding: 15px 100px;
